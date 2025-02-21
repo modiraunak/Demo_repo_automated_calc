@@ -23,8 +23,7 @@ This project uses OpenCV and MediaPipe to recognize hand gestures and convert th
 bash
 Copy
 Edit
-git clone https://github.com/your-username/hand-gesture-calculator.git
-cd hand-gesture-calculator
+git clone gh repo clone modiraunak/project1
 2️⃣ Install Dependencies
 bash
 Copy
