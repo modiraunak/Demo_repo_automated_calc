@@ -18,6 +18,25 @@ This project uses OpenCV and MediaPipe to recognize hand gestures and convert th
 4️⃣ Wait for 10 seconds between each step.
 5️⃣ The result appears on the screen!
 
+📌 Setup & Installation
+1️⃣ Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/your-username/hand-gesture-calculator.git
+cd hand-gesture-calculator
+2️⃣ Install Dependencies
+bash
+Copy
+Edit
+pip install opencv-python mediapipe
+3️⃣ Run the Script
+bash
+Copy
+Edit
+python hand_calculator.py
+
+
 🛠️ Tech Stack
 Python 🐍
 OpenCV (for video processing) 🎥
