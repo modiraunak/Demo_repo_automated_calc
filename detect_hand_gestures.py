@@ -9,11 +9,9 @@ def count_fingers(hand_landmarks):
     tips = [4, 8, 12, 16, 20]  # Thumb, Index, Middle, Ring, Pinky
     count = 0
 
-    # Thumb (check if it's extended using x-coordinates)
     if hand_landmarks.landmark[4].x < hand_landmarks.landmark[3].x:
         count += 1
 
-    # Other fingers (compare tip y with pip y)
     for tip in tips[1:]:  # Skip thumb
         if hand_landmarks.landmark[tip].y < hand_landmarks.landmark[tip - 2].y:
             count += 1
