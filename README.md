@@ -46,8 +46,8 @@ First Number: Show 1-5 fingers to indicate a number. The system captures after 1
 Operator: Show hand gestures:
 🖐️ (5 fingers) → +
 ✊ (fist) → -
-✌️ (2 fingers) → *
-🤟 (3 fingers) → /
+✌️ (2 fingers) → /
+🤟 (3 fingers) → *
 Second Number: Show 1-5 fingers again.
 Final Result Appears on Screen.
 Wait 5 seconds → Auto-reset → Repeat from step 1.
