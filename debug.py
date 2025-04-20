@@ -1,5 +1,4 @@
 import cv2
-
 print("Starting script...")
 
 cap = cv2.VideoCapture(0)
