@@ -1,4 +1,4 @@
-Hand Gesture Calculator using OpenCV & MediaPipe
+#HELLO EVERYONE,
 In the world of automation, imagine a basic calculator that performs addition, subtraction, multiplication, and division—not with buttons, but using hand gestures! 
 
 This project uses OpenCV and MediaPipe to recognize hand gestures and convert them into numbers and operators, allowing you to perform calculations without touching anything! 
@@ -44,3 +44,4 @@ Final Result Appears on Screen.
 Wait 5 seconds → Auto-reset → Repeat from step 1.
 🤝 Contribute
 Feel free to fork, improve, and contribute to this project!
+This is a demo project made by me on computer vision 
