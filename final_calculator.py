@@ -144,8 +144,8 @@ with mp_hands.Hands(min_detection_confidence=0.8, min_tracking_confidence=0.5) a
             cv2.putText(frame, f"{num1} {operator} {num2} = {result_val}", 
                         (50, 200), cv2.FONT_HERSHEY_SIMPLEX, 1.5, (0, 255, 0), 4)
 
-            # reset the calculator after every  10 seconds
-            if elapsed_time >= 10:
+            # reset the calculator after every  8 seconds
+            if elapsed_time >= 8:
                 state = "num1"
                 num1, operator, num2 = None, None, None
                 result_val = None
