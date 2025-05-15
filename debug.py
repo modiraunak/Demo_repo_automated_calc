@@ -1,5 +1,5 @@
 import cv2
-print("Starting script...")
+print("Starting script sucessfully")
 
 cap = cv2.VideoCapture(0)
 if not cap.isOpened():
@@ -14,7 +14,7 @@ while True:
         print("Can't receive frame (stream end?). Exiting ...")
         break
 
-    print("Frame captured")  # Debug print
+    print("Frame captured sucessfully")  # Debug print
 
     cv2.imshow("Frame", frame)
 
