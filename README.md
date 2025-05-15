@@ -42,7 +42,10 @@ Operator: Show hand gestures:
 Second Number: Show 1-5 fingers again.
 Final Result Appears on Screen.
 Wait 8 seconds → Auto-reset → Repeat from step 1.
-Please ignore the commit log as i was new to git when i created this project 
-This is a demo project made my me to know how can make projects and deploy it  
+
+
+
+
+Please ignore the commit log as i was new to git when i created this project   
 My Main Project will be launched in July 2025 
 Thank You Everyone For Watching :-)
