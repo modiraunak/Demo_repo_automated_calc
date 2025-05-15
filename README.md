@@ -27,7 +27,7 @@ Copy
 Edit
 python hand_calculator.py
 
-🛠️ Tech Stack
+Tech Stack
 Python 
 OpenCV (for video processing) 
 MediaPipe (for hand tracking) 
@@ -41,7 +41,8 @@ Operator: Show hand gestures:
 🤟 (3 fingers) → *
 Second Number: Show 1-5 fingers again.
 Final Result Appears on Screen.
-Wait 5 seconds → Auto-reset → Repeat from step 1.
-🤝 Contribute
-Feel free to fork, improve, and contribute to this project!
-This is a demo project made by me on computer vision 
+Wait 8 seconds → Auto-reset → Repeat from step 1.
+Please ignore the commit log as i was new to git when i created this project 
+This is a demo project made my me to know how can make projects and deploy it  
+My Main Project will be launched in July 2025 
+Thank You Everyone For Watching :-)
