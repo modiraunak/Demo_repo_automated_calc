@@ -33,7 +33,7 @@ OpenCV (for video processing)
 MediaPipe (for hand tracking) 
 
 👋 How to Use
-First Number: Show 1-5 fingers to indicate a number. The system captures after 10 seconds.
+First Number: Show 1-5 fingers to indicate a number. The system captures after 8 seconds.
 Operator: Show hand gestures:
 🖐️ (5 fingers) → +
 ✊ (fist) → -
