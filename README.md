@@ -46,6 +46,5 @@ Wait 8 seconds → Auto-reset → Repeat from step 1.
 
 
 
-Please ignore the commit log as i was new to git when i created this project   
-My Main Project will be launched in July 2025 
+
 Thank You Everyone For Watching :-)
