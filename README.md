@@ -2,7 +2,7 @@
 
 **A real-time computer vision project that uses hand gestures to perform basic arithmetic (addition, subtraction, multiplication, division) without touching any device.**
 
-This interface leverages **OpenCV** and **MediaPipe** to recognize hand gestures and convert them into numbers or operators, enabling a touch-free calculator experience. ([GitHub][1])
+This interface leverages **OpenCV** and **MediaPipe** to recognize hand gestures and convert them into numbers or operators, enabling a touch-free calculator experience. 
 
 ---
 
@@ -13,8 +13,7 @@ In automation and human-computer interaction, gesture control provides a natural
 ✔ Detects fingers shown as numbers
 ✔ Interprets hand gestures as operator commands
 ✔ Performs calculations in real time
-✔ Displays results on screen automatically ([GitHub][1])
-
+✔ Displays results on screen automatically 
 ---
 
 ## 🔍 Key Features
@@ -23,7 +22,7 @@ In automation and human-computer interaction, gesture control provides a natural
 * 📈 **Real-time video processing** with OpenCV
 * 🔢 **Number & operator detection** based on hand shape
 * ➕➖✖️➗ Perform arithmetic operations without keyboard input
-* ⏱️ Automatic reset after each calculation cycle ([GitHub][1])
+* ⏱️ Automatic reset after each calculation cycle
 
 ---
 
